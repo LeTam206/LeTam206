@@ -6,7 +6,7 @@ Web Developer
 
 *   🌍  I'm based in Vietnam
 *   ✉️  You can contact me at [1318letam@gmail.com](mailto:1318letam@gmail.com)
-*   🧠  I'm learning Vue.js
+*   🧠  I'm learning .NET
   
   ### Skills 
 <p align="left">
