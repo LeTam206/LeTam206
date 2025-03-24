@@ -5,8 +5,8 @@ Web Developer
 -------------
 
 *   🌍  I'm based in Vietnam
-*   ✉️  You can contact me at [1318letam@gmail.com](mailto:1318letam@gmail.com)
 *   🧠  I'm learning .NET
+*   ✉️  You can contact me at [1318letam@gmail.com](mailto:1318letam@gmail.com)
   
   ### Skills 
 <p align="left">
